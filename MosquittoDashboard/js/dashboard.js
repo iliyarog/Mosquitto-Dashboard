@@ -1,5 +1,5 @@
-var ip = "m10.cloudmqtt.com";
-var port = "37629";
+var ip = "192.168.1.102";
+var port = "1883";
 var usessl = true;
 var id = (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1);
 var username = '';
